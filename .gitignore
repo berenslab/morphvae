@@ -1,0 +1,13 @@
+# all autogenertaed files and folder
+.DS_Store*
+._*
+
+
+*.ipynb_*	
+
+*__pychache__*
+*.pyc
+
+./models/*
+
+*/iterator*
