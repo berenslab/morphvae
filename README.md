@@ -2,7 +2,7 @@
 
 This repository stores the code related to the ICML2021 [paper](https://www.biorxiv.org/content/early/2021/06/15/2021.06.14.448271).
 
-![](https://github.com/berenslab/morphvae/Fig1.png "Model schematic")
+![](https://github.com/berenslab/morphvae/blob/master/Fig1.png "Model schematic")
 
 ## Running the notebooks
 
