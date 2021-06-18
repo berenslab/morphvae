@@ -6,7 +6,7 @@ This repository stores the code related to the ICML2021 [paper](https://www.bior
 
 ## Running the notebooks
 
-Prior to running the notebooks you will need to download the associated morphologies as well as processed data. You can find the data [here]().
+Prior to running the notebooks you will need to download the associated morphologies as well as processed data. You can find the data [here](https://doi.org/10.5281/zenodo.4920391).
 Please download and unpack into the same repository. 
 
 ## Citing our work 
