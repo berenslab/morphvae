@@ -13,15 +13,20 @@ Please download and unpack into the same repository.
 
 If you use or refer to this work please use the following citation:
 ```
-@article {Laturnus2021.06.14.448271,
-	author = {Laturnus, Sophie and Berens, Philipp},
-	title = {MorphVAE: Generating Neural Morphologies from 3D-Walks using a Variational Autoencoder with Spherical Latent Space},
-	elocation-id = {2021.06.14.448271},
-	year = {2021},
-	doi = {10.1101/2021.06.14.448271},
-	publisher = {Cold Spring Harbor Laboratory},
-	URL = {https://www.biorxiv.org/content/early/2021/06/15/2021.06.14.448271},
-	eprint = {https://www.biorxiv.org/content/early/2021/06/15/2021.06.14.448271.full.pdf},
-	journal = {bioRxiv}
+
+@InProceedings{pmlr-v139-laturnus21a,
+  title = 	 {MorphVAE: Generating Neural Morphologies from 3D-Walks using a Variational Autoencoder with Spherical Latent Space},
+  author =       {Laturnus, Sophie C. and Berens, Philipp},
+  booktitle = 	 {Proceedings of the 38th International Conference on Machine Learning},
+  pages = 	 {6021--6031},
+  year = 	 {2021},
+  editor = 	 {Meila, Marina and Zhang, Tong},
+  volume = 	 {139},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {18--24 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v139/laturnus21a/laturnus21a.pdf},
+  url = 	 {https://proceedings.mlr.press/v139/laturnus21a.html},
 }
+
 ```
